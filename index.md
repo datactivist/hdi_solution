@@ -10,4 +10,4 @@
 
 ## TelepheryDynamics
 
-[![Illustration](https://github.com/datactivist/hdi_solution/raw/main/images/vote.gif)](https://datactivist.coop/hdi_solution/Vote4Data🗳%EF%B8%8F.html)
+[![Illustration](https://github.com/datactivist/hdi_solution/raw/main/images/telepheric.gif)](https://datactivist.coop/hdi_solution/Vote4Data🗳%EF%B8%8F.html)
