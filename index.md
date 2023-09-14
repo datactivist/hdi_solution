@@ -10,4 +10,4 @@
 
 ## TelepheryDynamics
 
-[![Illustration](https://github.com/datactivist/hdi_solution/raw/main/images/telepheric.gif)](https://datactivist.coop/hdi_solution/TelepheryDynamics.md)
+[![Illustration](https://github.com/datactivist/hdi_solution/raw/main/images/telepheric.gif)](https://github.com/datactivist/hdi_solution/TelepheryDynamics.md)
