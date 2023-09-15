@@ -11,3 +11,7 @@
 ## TelepheryDynamics
 
 [![Illustration](https://github.com/datactivist/hdi_solution/raw/main/images/telepheric.gif)](https://datactivist.coop/hdi_solution/TelepheryDynamics.html)
+
+## Giec-Data-to-People
+
+[![Illustration](https://github.com/datactivist/hdi_solution/raw/main/images/giec_data.gif)](https://giec-data-to-people-gem.vercel.app/)
