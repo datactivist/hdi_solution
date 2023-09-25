@@ -18,4 +18,4 @@
 
 ## Poc methode
 
-[![Illustration](https://github.com/datactivist/hdi_solution/raw/main/images/telepheric.gif)](https://datactivist.coop/hdi_solution/poc_method.html)
+[![Illustration](https://github.com/datactivist/hdi_solution/raw/main/images/poc.gif)](https://datactivist.coop/hdi_solution/poc_method.html)
